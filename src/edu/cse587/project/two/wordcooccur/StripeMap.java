@@ -42,4 +42,8 @@ public class StripeMap {
 	public Integer get(String s){
 		return innerMap.get(s);
 	}
+	
+	public int getCount(String s){
+		return innerMap.get(s).intValue();
+	}
 }

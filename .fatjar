@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 01 15:22:15 EST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=mrWordCooccur_fat.jar
+manifest.mergeall=true
+manifest.mainclass=edu.cse587.project.two.driver.MainDriver
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
