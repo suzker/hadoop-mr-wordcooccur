@@ -1,4 +1,9 @@
 hadoop-mr-wordcooccur
 =====================
 
-CSE587 porject
+A CSE587 porject
+
+Hadoop Mapper Reducer is used to count the coocurence of the word pairs given the material.
+
+author: Zhiliang SU (zsu2 [at] buffalo [dot] edu)
+
